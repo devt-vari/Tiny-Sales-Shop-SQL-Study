@@ -14,5 +14,5 @@ Basic aggregations CASE WHEN statements Window Functions Joins Date time functio
 6) Find the top 3 customers who have ordered the most distinct products
 7) Which product has been bought the least in terms of quantity?
 8) What is the median order total?
-9)For each order, determine if it was Expensive' (total over 300), Affordable' (total over 100), or `Cheap'.
+9)For each order, determine if it was Expensive' (total over 300), Affordable' (total over 100), or 'Cheap'.
 10) Find customers who have ordered the product with the highest price.
