@@ -1,4 +1,4 @@
-![Tiny-Shop-Sales-100x100](https://github.com/devt-vari/Tiny-Sales-Shop-SQL-Study/assets/53151990/e282dafc-6508-4443-88f6-1db6bc2f7cab)
+<img width="352" alt="Capture1" src="https://github.com/devt-vari/Tiny-Sales-Shop-SQL-Study/assets/53151990/502b37b7-c0d4-48e9-8b8c-08bb591421d8">
 
 SQL Case Study 1: Tiny Shop Sales
 
