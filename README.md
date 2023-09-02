@@ -1,6 +1,9 @@
+![Tiny-Shop-Sales-100x100](https://github.com/devt-vari/Tiny-Sales-Shop-SQL-Study/assets/53151990/e282dafc-6508-4443-88f6-1db6bc2f7cab)
+
 SQL Case Study 1: Tiny Shop Sales
 
 I've successfully solved the SQL Case Study 1: Tiny Shop Sales, provided by Data In Motion, LLC
+
 
 To successfully answer all the questions we should have been exposed to the following areas of SQL:
 
